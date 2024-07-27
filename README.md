@@ -1,0 +1,1 @@
+This is a medical Chatbot using Gemini API key named MEDBOT. Its special features are it is being set to provide all medical information from detecting diseases to medicine, home remedies, and suggestion to when to visit doctor as well as the precautions to be taken  care. It also allows to input the X-ray images with high quality and detects the problem with 87% accuracy. 
